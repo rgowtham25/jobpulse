@@ -1,5 +1,6 @@
 dash
 schedule
 twilio
-serpapi==0.1.4
+serpapi==0.1.5
+
 
