@@ -48,7 +48,7 @@
 
 # google_job_scraper.py
 # from serpapi import GoogleSearch
-from serpapi.google_search_results import GoogleSearchResults as GoogleSearch
+from google_search_results import GoogleSearch
 
 
 # --- CONFIGURATION ---
